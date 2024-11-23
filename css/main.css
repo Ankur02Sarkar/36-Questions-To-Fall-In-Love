@@ -38,7 +38,7 @@ body {
   background-color: #ffb4a2;
   color: #865a56;
   line-height: 1.8;
-  font-family: "Playfair Display", serif;
+  font-family: "Poppins", sans-serif;
   font-size: 130%;
   text-align: left;
 }
@@ -151,7 +151,7 @@ h1 {
   margin-left: -0.1em;
   color: #ffffff;
   font-size: 119%;
-  font-family: "Playfair Display SC", serif;
+  font-family: "Poppins", sans-serif;
   font-weight: normal;
   line-height: 0.1;
 }
@@ -163,7 +163,7 @@ h1 span {
 }
 
 h2 {
-  margin-left: 4.6em;
+  margin-left: 5.8em;
   margin-top: 0.45em;
   color: #865a56;
   font-size: 81%;
